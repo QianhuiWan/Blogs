@@ -1,3 +1,3 @@
 # Blogs
 
-Writing blogs with `blogdown` package in R.
+To write blogs with `blogdown` package in R.
